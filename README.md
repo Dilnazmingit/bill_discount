@@ -1,3 +1,4 @@
+![happy_bill](https://github.com/user-attachments/assets/39ccb35b-2f33-4630-a269-3c616952fa2b)
 # happy_bill_app
 
 A new Flutter project.
